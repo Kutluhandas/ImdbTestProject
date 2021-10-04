@@ -1,3 +1,12 @@
+Kullanılan kütüphaneler;
+
+• Junit-jupiter-engine
+
+• Selenium-java
+
+•Webdrivermanager
+
+
 Senaryo Adı: Menüden Bulunan Filmle Arama Çubuğu Üzerinden Bulunan Film Özellikleri Aynı Olmalıdır.
 
 Açıklama: Menü üzerinden gidilerek film bulunur ve bu film arama çubuğundan arattırılır. Director, Writer, Stars bilgilerinin aynı olduğu doğrulanır.

@@ -1,10 +1,10 @@
 Kullanılan kütüphaneler;
 
-• Junit-jupiter-engine
+  • Junit-jupiter-engine
 
-• Selenium-java
+  • Selenium-java
 
-•Webdrivermanager
+  • Webdrivermanager
 
 
 Senaryo Adı: Menüden Bulunan Filmle Arama Çubuğu Üzerinden Bulunan Film Özellikleri Aynı Olmalıdır.
@@ -13,33 +13,33 @@ Açıklama: Menü üzerinden gidilerek film bulunur ve bu film arama çubuğunda
 
 Test Adımları:
 
-• https://www.imdb.com/ adresine gidilir
+ • https://www.imdb.com/ adresine gidilir
 
-• Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
+ • Arama çubuğunun sol tarafında bulunan Menü butonuna basılır
 
-• Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
+ • Gelen ekranda “Award & Events” başlığı altında bulunan “Oscars” butonuna tıklanır
 
-• “Event History” başlığı altında “1929” değeri seçilir
+ • “Event History” başlığı altında “1929” değeri seçilir
 
-• “Honorary Award” başlığı altında “The Circus (Charles Chaplin)” seçilir
+ • “Honorary Award” başlığı altında “The Circus (Charles Chaplin)” seçilir
 
-• Gelen ekranda, The Circus’a ait; a. Director: bilgisi kayıt edilir. b. Writer: bilgisi kayıt edilir. c. Stars: bilgisi kayıt edilir.
+ • Gelen ekranda, The Circus’a ait; a. Director: bilgisi kayıt edilir. b. Writer: bilgisi kayıt edilir. c. Stars: bilgisi kayıt edilir.
 
-• Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
+ • Ekranın sol üstünde bulunan “IMDb” butonuna tıklanarak “Anasayfa’ya” dönülür.
 
-• Arama çubuğuna “The Circus” yazılır.
+ • Arama çubuğuna “The Circus” yazılır.
 
-• Sonuçlar arasında gelen “The Circus’a” tıklanır.
+ • Sonuçlar arasında gelen “The Circus’a” tıklanır.
 
-• Gelen ekranda; a. Director: bilgisi kayıt edilen directorle aynı mı kontrol edilir. b. Writer: bilgisi kayıt edilen Writer’la aynı mı kontrol edilir. c. Stars: bilgisi kayıt edilen Starts’la aynı mı kontrol edilir.
+ • Gelen ekranda; a. Director: bilgisi kayıt edilen directorle aynı mı kontrol edilir. b. Writer: bilgisi kayıt edilen Writer’la aynı mı kontrol edilir. c. Stars: bilgisi kayıt edilen Starts’la aynı mı kontrol edilir.
 
-• Kontroller yapıldıktan sonra “See all .. photos” linkine tıklanır
+ • Kontroller yapıldıktan sonra “See all .. photos” linkine tıklanır
 
-• Gelen ekranda: a. Bütün fotoğrafların linklerinin kırık olmadığını kontrol edilir.
+ • Gelen ekranda: a. Bütün fotoğrafların linklerinin kırık olmadığını kontrol edilir.
 
-• Aynı işlemler “The Jazz Singer” filmi için de yapılmalıdır.
+ • Aynı işlemler “The Jazz Singer” filmi için de yapılmalıdır.
 
-Beklenen Sonuç (Expected result): • Director: bilgisi değişmemeli • Writer: bilgisi değişmemeli • Stars: bilgisi değişmemeli.
+ Beklenen Sonuç (Expected result): • Director: bilgisi değişmemeli • Writer: bilgisi değişmemeli • Stars: bilgisi değişmemeli.
 • Filmle alakalı fotoğrafların linkleri kırık olmamalı.
 
 Statü: Test otomastonu yapıldı, başarılı.

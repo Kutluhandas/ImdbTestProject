@@ -23,3 +23,12 @@ Test Adımları:
 • Sonuçlar arasında gelen “The Circus’a” tıklanır.
 
 • Gelen ekranda; a. Director: bilgisi kayıt edilen directorle aynı mı kontrol edilir. b. Writer: bilgisi kayıt edilen Writer’la aynı mı kontrol edilir. c. Stars: bilgisi kayıt edilen Starts’la aynı mı kontrol edilir.
+
+• Kontroller yapıldıktan sonra “See all .. photos” linkine tıklanır
+
+• Gelen ekranda: a. Bütün fotoğrafların linklerinin kırık olmadığını kontrol edilir.
+
+• Aynı işlemler “The Jazz Singer” filmi için de yapılmalıdır.
+
+Beklenen Sonuç (Expected result): • Director: bilgisi değişmemeli • Writer: bilgisi değişmemeli • Stars: bilgisi değişmemeli.
+• Filmle alakalı fotoğrafların linkleri kırık olmamalı.

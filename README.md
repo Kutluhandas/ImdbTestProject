@@ -42,4 +42,4 @@ Test Adımları:
  Beklenen Sonuç (Expected result): • Director: bilgisi değişmemeli • Writer: bilgisi değişmemeli • Stars: bilgisi değişmemeli.
 • Filmle alakalı fotoğrafların linkleri kırık olmamalı.
 
-Statü: Test otomastonu yapıldı, başarılı.
+Statü: Başarılı, test otomastonu yapıldı.
